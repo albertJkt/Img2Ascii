@@ -7,15 +7,15 @@ namespace IMG_TO_ASCII
     class Program
     {
         private static string imgLocation;
-        private static string pixels = " .-+*wGHM#&%";
+        private static string pixels = " .-+*wGHM%&#";
         private static string saveLocation;
 
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the IMG TO ASCII App :)");
-            Console.WriteLine("Please, enter path to the image: \n");
+            Console.WriteLine("Please, enter path to the image: ");
             imgLocation = Console.ReadLine();
-            Console.WriteLine("Please, enter path where ASCII file should be saved: \n");
+            Console.WriteLine("Please, enter path where converted file should be saved: ");
             saveLocation =  Console.ReadLine();
             try
             {
