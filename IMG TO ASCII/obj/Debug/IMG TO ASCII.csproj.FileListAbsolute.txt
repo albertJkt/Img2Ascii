@@ -1,0 +1,7 @@
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\obj\Debug\IMG TO ASCII.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\obj\Debug\IMG TO ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\bin\Debug\IMG TO ASCII.exe.config
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\bin\Debug\IMG TO ASCII.exe
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\bin\Debug\IMG TO ASCII.pdb
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\obj\Debug\IMG TO ASCII.exe
+C:\Users\Albert\Documents\Programming in C#\IMG TO ASCII\IMG TO ASCII\obj\Debug\IMG TO ASCII.pdb
